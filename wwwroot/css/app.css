@@ -4,6 +4,7 @@ html, body {
 }
 #app{
     height: 100%;   
+    background-color: antiquewhite
 }
 
 h1:focus {
